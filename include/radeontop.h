@@ -138,6 +138,7 @@ enum radeon_family {
 	ALDEBARAN,
 	CYAN_SKILLFISH,
 	BEIGE_GOBY,
+	GRANITE_RIDGE,
 };
 
 extern const char * const family_str[];
